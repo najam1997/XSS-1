@@ -1,4 +1,4 @@
-# CTF: XSS
+# Vulnerability: Reflected XSS
 
 
 

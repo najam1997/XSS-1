@@ -1,10 +1,11 @@
-# Very Easy XSS
+# CTF: XSS
 
 
 
-## Getting started
+## Steps for setup
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+1. Open Terminal on your desktop.
+2. 
 
 Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 

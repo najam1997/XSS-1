@@ -31,5 +31,5 @@ python3 server.py
 5. Then start the challenge, for which you'll have to go into the **templates** folder and open the **index.html** file on a browser.
 
 ## Vulnerability difficulty and Exploitation details
-Difficulty: Very Easy
-Exploitation: Just trigger an alert.
+1. Difficulty: Very Easy
+2. Exploitation: Just trigger an alert.

@@ -21,7 +21,7 @@ git clone https://github.com/najam1997/XSS-1.git
 3. This will clone the Repo.
 4. Then we need to start our FLASK App, for that run:
 ```
-cd xss-1
+cd XSS-1
 python3 server.py
 ```
 5. Then we will start the challenge, for which you'll have to go into the **templates** folder and open the **index.html** file on a browser.

@@ -4,8 +4,9 @@
 This is the beginning of a deliberately vulnerable application series by the name of NUSK Labs, to help the young and upcoming penetration testers to learn hacking.
 
 ## Pre-Requisites
-Make sure you have python and flask installed.
-For Windows, you'll have to download and install **python** as well as **pip** from browser. For Linux, following command would do:
+1. Basic understanding of Web Apps and cross site scripting is a must.
+2. Make sure you have python and flask installed.
+3. For Windows, you'll have to download and install **python** as well as **pip** from browser. For Linux, following command would do:
 ```
 sudo apt-get install python
 ```
@@ -27,7 +28,7 @@ git clone https://github.com/najam1997/XSS-1.git
 cd XSS-1
 python3 server.py
 ```
-5. Then we will start the challenge, for which you'll have to go into the **templates** folder and open the **index.html** file on a browser.
+5. Then start the challenge, for which you'll have to go into the **templates** folder and open the **index.html** file on a browser.
 
 ## Vulnerability difficulty and Exploitation details
 Difficulty: Very Easy

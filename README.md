@@ -1,6 +1,6 @@
 # Vulnerability: Reflected XSS
 
-## Pre-Requisite
+## Pre-Requisites
 Make sure you have python and flask installed.
 For Windows, you'll have to download and install **python** as well as **pip** from browser. For Linux, following command would do:
 ```

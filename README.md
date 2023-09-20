@@ -2,9 +2,12 @@
 
 ## Pre-Requisite
 Make sure you have python and flask installed.
-For Linux, following commands would do.
+For Windows, you'll have to download and install **python** as well as **pip** from browser. For Linux, following command would do:
 ```
 sudo apt-get install python
+```
+Then download FLASK framework with the following command:
+```
 pip install flask
 ```
 

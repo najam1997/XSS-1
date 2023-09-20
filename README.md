@@ -1,5 +1,8 @@
 # Vulnerability: Reflected XSS
 
+## Purpose
+This is the beginning of a deliberately vulnerable application series by the name of NUSK Labs, to help the young and upcoming penetration testers to learn hacking.
+
 ## Pre-Requisites
 Make sure you have python and flask installed.
 For Windows, you'll have to download and install **python** as well as **pip** from browser. For Linux, following command would do:
@@ -25,3 +28,7 @@ cd XSS-1
 python3 server.py
 ```
 5. Then we will start the challenge, for which you'll have to go into the **templates** folder and open the **index.html** file on a browser.
+
+## Vulnerability difficulty and Exploitation details
+Difficulty: Very Easy
+Exploitation: Just trigger an alert.

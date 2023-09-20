@@ -1,6 +1,12 @@
 # Vulnerability: Reflected XSS
 
-
+## Pre-Requisite
+Make sure you have python and flask installed.
+For Linux, following commands would do.
+```
+sudo apt-get install python
+pip install flask
+```
 
 ## Steps for setup
 
